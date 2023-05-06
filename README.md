@@ -1,9 +1,7 @@
-# CodeADay
+# Welcome to CodeADay!
 <body>
-	<h1>Welcome to CodeADay!</h1>
+	<h1></h1>
 	<p>This repository is a collection of daily code problems and solutions that I'm working on. Each day, I'll be adding a new problem along with my solution in Python.</p>
-css
-Copy code
 <h2>How to Use</h2>
 <p>Feel free to use these code problems and solutions for your own learning and practice. If you find any errors or have suggestions for improving the code, please feel free to create a pull request.</p>
 
